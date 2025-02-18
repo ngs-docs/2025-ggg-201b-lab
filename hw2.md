@@ -4,7 +4,7 @@ tags: ggg, ggg2025, ggg201b
 
 # GGG 201(b), Lab Homework 2 - 2025
 
-([Permanent link on github](https://github.com/ngs-docs/2025-ggg-201b-lab/blob/main/hw-2.md))
+([Permanent link on github](https://github.com/ngs-docs/2025-ggg-201b-lab/blob/main/hw2.md))
 
 Due by 10pm, Thursday Feb 27th.
 
